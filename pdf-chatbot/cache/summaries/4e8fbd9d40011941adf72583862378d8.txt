@@ -1,0 +1,6 @@
+ 4.6 Summary
+
+* Radio communication uses electromagnetic waves for transmission and reception.
+* Multiple access techniques allow multiple users to share a single channel.
+* FDMA, TDMA, and CDMA are three common multiple access techniques.
+* LTE is a standard for wireless broadband communication that uses four modulation schemes: BPSK, QPSK, 16 QAM, and 64 QAM. 
